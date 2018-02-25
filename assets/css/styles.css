@@ -1,0 +1,36 @@
+#navcol-1 {
+  text-transform:uppercase;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+}
+
+#description {
+  color:rgb(216,222,228);
+  padding:0px;
+}
+
+@media (min-width: 576px) {
+  #title {
+    font-size:40px;
+    font-family:Montserrat, sans-serif;
+    width:178px;
+    margin:150px;
+    color:rgb(62,33,38);
+    padding-top:0px;
+  }
+}
+
+#title {
+  font-size:40px;
+  font-family:Montserrat, sans-serif;
+  width:178px;
+  margin:70px;
+  color:rgb(62,33,38);
+  padding-top:0px;
+}
+
+#dog-pics {
+  width:100%;
+}
+
